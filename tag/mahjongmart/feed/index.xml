@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>MahjongMart &#8211; Mahjong-opas</title>
+	<atom:link href="/tag/mahjongmart/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Kaikki mitä mahjongista tarvitsee tietää</description>
+	<lastBuildDate>Thu, 18 Feb 2021 12:36:26 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<item>
+		<title>MahjongMartin Dragon-setti</title>
+		<link>/2008/09/mahjongmartin-dragon-setti/</link>
+		
+		<dc:creator><![CDATA[Mikko]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2008 13:57:55 +0000</pubDate>
+				<category><![CDATA[Ostoksilla]]></category>
+		<category><![CDATA[MahjongMart]]></category>
+		<category><![CDATA[ostokset]]></category>
+		<category><![CDATA[riichi]]></category>
+		<guid isPermaLink="false">/?p=282</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+MahjongMartista löytyi sopuhintainen riichi-yhteensopiva setti, jonka tilasin oitis itselleni. 23,5 euron hintaa vastaan on paha väittää, varsinkaan kun postikulutkaan eivät olleet pahat. Tilaus ei kuitenkaan mennyt ihan täysin putkeen.
+</div><div class="link-more"><a href="/2008/09/mahjongmartin-dragon-setti/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;MahjongMartin Dragon-setti&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[<p>MahjongMartista l&ouml;ytyi sopuhintainen riichi-yhteensopiva setti, jonka tilasin oitis itselleni. 23,5 euron hintaa vastaan on paha v&auml;itt&auml;&auml;, varsinkaan kun postikulutkaan eiv&auml;t olleet pahat. Tilaus ei kuitenkaan mennyt ihan t&auml;ysin putkeen. Tilasin sunnuntaina ja kun koko viikon aikana ei kuulunut mit&auml;&auml;n, laitoin s&auml;hk&ouml;postikysely&auml; per&auml;&auml;n. Paljastui, ett&auml; tilaukseni oli postitettu torstaina.</p>
+<p><a href="/2008/09/mahjongmartin-dragon-setti/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

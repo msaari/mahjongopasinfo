@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>turnausraportit &#8211; Mahjong-opas</title>
+	<atom:link href="/tag/turnausraportit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Kaikki mitä mahjongista tarvitsee tietää</description>
+	<lastBuildDate>Thu, 18 Feb 2021 12:36:24 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<item>
+		<title>Tom Mustosen kokemuksia Reach Austriasta</title>
+		<link>/2008/12/tom-mustosen-kokemuksia-reach-austriasta/</link>
+		
+		<dc:creator><![CDATA[Mikko]]></dc:creator>
+		<pubDate>Sun, 21 Dec 2008 06:29:21 +0000</pubDate>
+				<category><![CDATA[Sekalaisia juttuja]]></category>
+		<category><![CDATA[riichi]]></category>
+		<category><![CDATA[turnaukset]]></category>
+		<category><![CDATA[turnausraportit]]></category>
+		<guid isPermaLink="false">/?p=458</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Kuten uutisoimme, Tom Mustonen oli kolmas Reach Austriassa. Tom sattui kommentoimaan tuota merkintää, joten pyysin Tomia kertomaan lisää turnauksesta.
+</div><div class="link-more"><a href="/2008/12/tom-mustosen-kokemuksia-reach-austriasta/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Tom Mustosen kokemuksia Reach Austriasta&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[<p>Kuten uutisoimme, Tom Mustonen oli kolmas Reach Austriassa. Tom sattui kommentoimaan tuota merkint&auml;&auml;, joten pyysin Tomia kertomaan lis&auml;&auml; turnauksesta. Olkaa hyv&auml;t: Turnausp&auml;iv&auml;&auml; edelt&auml;neen&auml; y&ouml;n&auml; ei paljoa unta tullut, johtuen perinteisest&auml; turnausj&auml;nnityksest&auml;. Vaeltelin turnauspaikalle noin tunnin ennen turnauksen alkua, miettien mik&auml; olisi paras tapa aloittaa pelaaminen.</p>
+<p><a href="/2008/12/tom-mustosen-kokemuksia-reach-austriasta/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

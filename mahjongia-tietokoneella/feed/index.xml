@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Artikkelin Mahjongia tietokoneella kommentit	</title>
+	<atom:link href="/mahjongia-tietokoneella/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Kaikki mitä mahjongista tarvitsee tietää</description>
+	<lastBuildDate>Thu, 18 Feb 2021 12:37:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<item>
+		<title>
+		Kirjoittaja: mikko		</title>
+		<link>/mahjongia-tietokoneella/comment-page-1/#comment-10466</link>
+
+		<dc:creator><![CDATA[mikko]]></dc:creator>
+		<pubDate>Sun, 28 Sep 2014 17:05:27 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=260#comment-10466</guid>
+
+					<description><![CDATA[mahjong time on niin kökkö, etten viitsinyt kauan pelata siellä. Tenhoussa on sujuva pelata kun oppii nappulat. Ranking-merkkejä en osaa vielä lukea. Dragon kong on englanninkielinen paikka jossa voi pelata, ja on ihan toimiva. Suurin osa peleistä on oikealla rahalla ja pelaajia on vähän. Peliä voi olla vaikea saada.]]></description>
+			<content:encoded><![CDATA[<p>mahjong time on niin kökkö, etten viitsinyt kauan pelata siellä. Tenhoussa on sujuva pelata kun oppii nappulat. Ranking-merkkejä en osaa vielä lukea. Dragon kong on englanninkielinen paikka jossa voi pelata, ja on ihan toimiva. Suurin osa peleistä on oikealla rahalla ja pelaajia on vähän. Peliä voi olla vaikea saada.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Kirjoittaja: Henkka		</title>
+		<link>/mahjongia-tietokoneella/comment-page-1/#comment-159</link>
+
+		<dc:creator><![CDATA[Henkka]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2009 09:15:47 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=260#comment-159</guid>
+
+					<description><![CDATA[Tenhoulle on olemassa varsin kattava dokumentaatiosivusto (http://arcturus.su/tenhou/), jolta löytää kaiken pelaamiseen tarvittavan informaation (vieläpä kuvien kanssa) .]]></description>
+			<content:encoded><![CDATA[<p>Tenhoulle on olemassa varsin kattava dokumentaatiosivusto (<a href="http://arcturus.su/tenhou/" rel="nofollow ugc">http://arcturus.su/tenhou/</a>), jolta löytää kaiken pelaamiseen tarvittavan informaation (vieläpä kuvien kanssa) .</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

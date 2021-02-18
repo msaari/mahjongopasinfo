@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Artikkelin Klassinen japanilainen mahjong kommentit	</title>
+	<atom:link href="/saannot/klassinen-japanilainen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Kaikki mitä mahjongista tarvitsee tietää</description>
+	<lastBuildDate>Thu, 18 Feb 2021 12:36:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<item>
+		<title>
+		Kirjoittaja: Mikko		</title>
+		<link>/saannot/klassinen-japanilainen/comment-page-1/#comment-10807</link>
+
+		<dc:creator><![CDATA[Mikko]]></dc:creator>
+		<pubDate>Sat, 25 Oct 2014 11:35:48 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=129#comment-10807</guid>
+
+					<description><![CDATA[Vastauksena kommenttiin &lt;a href=&quot;/saannot/klassinen-japanilainen/comment-page-1/#comment-10806&quot;&gt;Lasse Saari&lt;/a&gt;.
+
+Minä en ainakaan erityisemmin tarvitse, Tarotista texas hold&#039;emiin -kirjaa varten kirjoitin omat säännöt.]]></description>
+			<content:encoded><![CDATA[<p>Vastauksena kommenttiin <a href="/saannot/klassinen-japanilainen/comment-page-1/#comment-10806">Lasse Saari</a>.</p>
+<p>Minä en ainakaan erityisemmin tarvitse, Tarotista texas hold&#8217;emiin -kirjaa varten kirjoitin omat säännöt.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Kirjoittaja: Lasse Saari		</title>
+		<link>/saannot/klassinen-japanilainen/comment-page-1/#comment-10806</link>
+
+		<dc:creator><![CDATA[Lasse Saari]]></dc:creator>
+		<pubDate>Sat, 25 Oct 2014 11:33:03 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=129#comment-10806</guid>
+
+					<description><![CDATA[Heivaan!
+Onko siellä kenelläkään muulla kopiota noista vanhoista Kejimajiangmin säännöistä? Minulla on tulosteet tärkeimmistä sivuista vuodelta 2005. Jos niistä on apua esim. noissa tulevissa suomenkielisissä säännöissä, voin skannata ja tekstitunnistaa ne valmiiksi!?]]></description>
+			<content:encoded><![CDATA[<p>Heivaan!<br />
+Onko siellä kenelläkään muulla kopiota noista vanhoista Kejimajiangmin säännöistä? Minulla on tulosteet tärkeimmistä sivuista vuodelta 2005. Jos niistä on apua esim. noissa tulevissa suomenkielisissä säännöissä, voin skannata ja tekstitunnistaa ne valmiiksi!?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
