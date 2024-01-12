@@ -14,12 +14,12 @@
 	<atom:link href="/saannot/japanilainen-riichi/saannot/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Kaikki mitä mahjongista tarvitsee tietää</description>
-	<lastBuildDate>Thu, 18 Feb 2021 12:36:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Jan 2024 05:53:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>
 		Kirjoittaja: Nightwielder		</title>

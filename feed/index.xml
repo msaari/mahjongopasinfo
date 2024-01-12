@@ -15,14 +15,31 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Kaikki mitä mahjongista tarvitsee tietää</description>
-	<lastBuildDate>Thu, 18 Feb 2021 12:37:08 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Jan 2024 06:59:03 +0000</lastBuildDate>
 	<language>fi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
+		<title>1920-luvun säännöt</title>
+		<link>/saannot/1920-luvun-saannot/</link>
+		
+		<dc:creator><![CDATA[Mikko]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 06:48:43 +0000</pubDate>
+				<guid isPermaLink="false">/?page_id=909</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Otavainen-lehdessä julkaistiin mahjongin säännöt vuonna 1924. Säännöt löytyvät lehden numerosta 11, joka ilmestyi 28.5.1924. Lehdessä tuli mukana kortit, joilla peliä&#8230;
+</div><div class="link-more"><a href="/saannot/1920-luvun-saannot/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;1920-luvun säännöt&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[<p>Otavainen&#x2d;lehdess&auml; julkaistiin mahjongin s&auml;&auml;nn&ouml;t vuonna 1924. S&auml;&auml;nn&ouml;t l&ouml;ytyv&auml;t lehden numerosta 11, joka ilmestyi 28.5.1924. Lehdess&auml; tuli mukana kortit, joilla peli&auml; saattoi peli&auml; &ndash; tosin vain tilaajille, irtonumeronostajat saivat sivun, jossa oli jokaisen tiilen kuva, eli oli ostettava nelj&auml; numeroa saadakseen kokonaisen setin! &ndash; ja neuvottiinpa my&ouml;s Mah&#x2d;Jong&#x2d;Liinan ompelemistakin.</p>
+<p><a href="/saannot/1920-luvun-saannot/" rel="nofollow">Lähde</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Tietosuojaseloste</title>
 		<link>/tietosuojaseloste/</link>
 		
@@ -33,8 +50,8 @@
 					<description><![CDATA[<div class="entry-summary">
 Cookiet eli evästeet ovat pieniä tekstitiedostoja, jotka tallennetaan koneellesi, kun käyt nettisivustolla. Niiden avulla lisätään toiminnallisuutta nettisivustoille, seurataan käyttäjien toimia&#8230;
 </div><div class="link-more"><a href="/tietosuojaseloste/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Tietosuojaseloste&#8221;</span>&#8230;</a></div>]]></description>
-										<content:encoded><![CDATA[<p>Cookiet eli ev&auml;steet ovat pieni&auml; tekstitiedostoja, jotka tallennetaan koneellesi, kun k&auml;yt nettisivustolla. Niiden avulla lis&auml;t&auml;&auml;n toiminnallisuutta nettisivustoille, seurataan k&auml;ytt&auml;jien toimia ja tallennetaan tietoa my&ouml;hemp&auml;&auml; k&auml;ytt&ouml;&auml; varten. Lis&auml;tietoja ev&auml;steist&auml; saat AboutCookies.org-sivustolta. Voit est&auml;&auml; ev&auml;steiden k&auml;yt&ouml;n selaimestasi, mutta se voi vaikuttaa sivuston toimivuuteen.</p>
-<p><a href="/tietosuojaseloste/" rel="nofollow">Source</a></p>]]></content:encoded>
+										<content:encoded><![CDATA[<p>Cookiet eli ev&auml;steet ovat pieni&auml; tekstitiedostoja, jotka tallennetaan koneellesi, kun k&auml;yt nettisivustolla. Niiden avulla lis&auml;t&auml;&auml;n toiminnallisuutta nettisivustoille, seurataan k&auml;ytt&auml;jien toimia ja tallennetaan tietoa my&ouml;hemp&auml;&auml; k&auml;ytt&ouml;&auml; varten. Lis&auml;tietoja ev&auml;steist&auml; saat AboutCookies.org&#x2d;sivustolta. Voit est&auml;&auml; ev&auml;steiden k&auml;yt&ouml;n selaimestasi, mutta se voi vaikuttaa sivuston toimivuuteen.</p>
+<p><a href="/tietosuojaseloste/" rel="nofollow">Lähde</a></p>]]></content:encoded>
 					
 		
 		
@@ -50,8 +67,8 @@ Cookiet eli evästeet ovat pieniä tekstitiedostoja, jotka tallennetaan koneelle
 					<description><![CDATA[<div class="entry-summary">
 Mahjong on kiinalainen peli, jota pelataan erikoisilla ja tyylikkäillä mahjong-tiilillä. Värikkään pinnan alla mahjong on itse asiassa muunnelma perinteisillä pelikorteilla&#8230;
 </div><div class="link-more"><a href="/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Mahjong-opas opettaa mahjongin säännöt&#8221;</span>&#8230;</a></div>]]></description>
-										<content:encoded><![CDATA[<p>Mahjong on kiinalainen peli, jota pelataan erikoisilla ja tyylikk&auml;ill&auml; mahjong-tiilill&auml;. V&auml;rikk&auml;&auml;n pinnan alla mahjong on itse asiassa muunnelma perinteisill&auml; pelikorteilla pelattavasta rommipelist&auml;, sill&auml; tavoite ja pelin kulku ovat samanlaisia: nosta kortti, katso saitko voittavan k&auml;den aikaiseksi ja jos et saanut, heit&auml; kortti pois. Mahjongissa korttien tilalla ovat v&auml;rikk&auml;&auml;t tiilet.</p>
-<p><a href="/" rel="nofollow">Source</a></p>]]></content:encoded>
+										<content:encoded><![CDATA[<p>Mahjong on kiinalainen peli, jota pelataan erikoisilla ja tyylikk&auml;ill&auml; mahjong&#x2d;tiilill&auml;. V&auml;rikk&auml;&auml;n pinnan alla mahjong on itse asiassa muunnelma perinteisill&auml; pelikorteilla pelattavasta rommipelist&auml;, sill&auml; tavoite ja pelin kulku ovat samanlaisia: nosta kortti, katso saitko voittavan k&auml;den aikaiseksi ja jos et saanut, heit&auml; kortti pois. Mahjongissa korttien tilalla ovat v&auml;rikk&auml;&auml;t tiilet.</p>
+<p><a href="/" rel="nofollow">Lähde</a></p>]]></content:encoded>
 					
 		
 		
@@ -71,8 +88,8 @@ Mahjong on kiinalainen peli, jota pelataan erikoisilla ja tyylikkäillä mahjong
 					<description><![CDATA[<div class="entry-summary">
 Posti toi viikolla Jenn Barrin riichi-kirjan Reach Mahjong — The Only Way to Play. Barr on tuttu ReachMahjong.comin taustajoukoista ja&#8230;
 </div><div class="link-more"><a href="/2009/09/reach-mahjong-the-only-way-to-play/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Reach Mahjong &#8211; The Only Way to Play&#8221;</span>&#8230;</a></div>]]></description>
-										<content:encoded><![CDATA[<p>Posti toi viikolla Jenn Barrin riichi-kirjan Reach Mahjong &mdash; The Only Way to Play. Barr on tuttu ReachMahjong.comin taustajoukoista ja yhten&auml; englanninkielisen riichi-skenen t&auml;hdist&auml;. Nyt auktoriteettiasemaa vahvistaa uusi kirja, joka on tiett&auml;v&auml;sti ensimm&auml;inen englanninkielinen teos riichist&auml; &mdash; tai reachista, kuten Barr peli&auml; nimitt&auml;&auml;. Kirja on varsin p&auml;tev&auml; paketti: se k&auml;sittelee riichin...</p>
-<p><a href="/2009/09/reach-mahjong-the-only-way-to-play/" rel="nofollow">Source</a></p>]]></content:encoded>
+										<content:encoded><![CDATA[<p>Posti toi viikolla Jenn Barrin riichi&#x2d;kirjan Reach Mahjong &mdash; The Only Way to Play. Barr on tuttu ReachMahjong.comin taustajoukoista ja yhten&auml; englanninkielisen riichi&#x2d;skenen t&auml;hdist&auml;. Nyt auktoriteettiasemaa vahvistaa uusi kirja, joka on tiett&auml;v&auml;sti ensimm&auml;inen englanninkielinen teos riichist&auml; &mdash; tai reachista, kuten Barr peli&auml; nimitt&auml;&auml;. Kirja on varsin p&auml;tev&auml; paketti: se k&auml;sittelee riichin&#8230;</p>
+<p><a href="/2009/09/reach-mahjong-the-only-way-to-play/" rel="nofollow">Lähde</a></p>]]></content:encoded>
 					
 		
 		
@@ -89,8 +106,8 @@ Posti toi viikolla Jenn Barrin riichi-kirjan Reach Mahjong — The Only Way to P
 					<description><![CDATA[<div class="entry-summary">
 Taannoin mainitsemani Adrie van Geffenin Mahjong Step by Step saapui vihdoin pitkällisen odottelun jälkeen. Luulin paketin tulevan Yhdysvalloista, joten odotus&#8230;
 </div><div class="link-more"><a href="/2009/09/mahjong-step-by-step/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Mahjong Step by Step&#8221;</span>&#8230;</a></div>]]></description>
-										<content:encoded><![CDATA[<p>Taannoin mainitsemani Adrie van Geffenin Mahjong Step by Step saapui vihdoin pitk&auml;llisen odottelun j&auml;lkeen. Luulin paketin tulevan Yhdysvalloista, joten odotus alkoi ihmetytt&auml;&auml; &mdash; pakettia ei ollut kuulunut noin kolmeen viikkoon, kun Yhdysvalloista tavara tulee tavallisesti noin viikossa. Lopulta paketti tuli Isosta-Britanniasta. Valitettavasti kirjanen oli pakattu sen verran kehnosti...</p>
-<p><a href="/2009/09/mahjong-step-by-step/" rel="nofollow">Source</a></p>]]></content:encoded>
+										<content:encoded><![CDATA[<p>Taannoin mainitsemani Adrie van Geffenin Mahjong Step by Step saapui vihdoin pitk&auml;llisen odottelun j&auml;lkeen. Luulin paketin tulevan Yhdysvalloista, joten odotus alkoi ihmetytt&auml;&auml; &mdash; pakettia ei ollut kuulunut noin kolmeen viikkoon, kun Yhdysvalloista tavara tulee tavallisesti noin viikossa. Lopulta paketti tuli Isosta&#x2d;Britanniasta. Valitettavasti kirjanen oli pakattu sen verran kehnosti&#8230;</p>
+<p><a href="/2009/09/mahjong-step-by-step/" rel="nofollow">Lähde</a></p>]]></content:encoded>
 					
 		
 		
@@ -107,8 +124,8 @@ Taannoin mainitsemani Adrie van Geffenin Mahjong Step by Step saapui vihdoin pit
 					<description><![CDATA[<div class="entry-summary">
 Jos mahjong on pelinä outo, kenties vertaaminen muihin, tutumpiin peleihin auttaa tekemään pelistä ymmärrettävämmän. Mahjongilla on paljon sukulaisia varsinkin perinteisten&#8230;
 </div><div class="link-more"><a href="/tietoa-pelista/mahjong-ja-muut-pelit/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Mahjong ja muut pelit&#8221;</span>&#8230;</a></div>]]></description>
-										<content:encoded><![CDATA[<p>Jos mahjong on pelin&auml; outo, kenties vertaaminen muihin, tutumpiin peleihin auttaa tekem&auml;&auml;n pelist&auml; ymm&auml;rrett&auml;v&auml;mm&auml;n. Mahjongilla on paljon sukulaisia varsinkin perinteisten korttipelien parissa, sill&auml; sen juuret ovat samat kuin perinteisill&auml; korttipeleill&auml; &mdash; samoista kiinalaisista korteista molemmat ovat l&auml;ht&ouml;isin. Mahjongin l&auml;himm&auml;t sukulaiset ovat perinteisill&auml; korteilla pelattavat rommipelit.</p>
-<p><a href="/tietoa-pelista/mahjong-ja-muut-pelit/" rel="nofollow">Source</a></p>]]></content:encoded>
+										<content:encoded><![CDATA[<p>Jos mahjong on pelin&auml; outo, kenties vertaaminen muihin, tutumpiin peleihin auttaa tekem&auml;&auml;n pelist&auml; ymm&auml;rrett&auml;v&auml;mm&auml;n. Mahjongilla on paljon sukulaisia varsinkin perinteisten korttipelien parissa, sill&auml; sen juuret ovat samat kuin perinteisill&auml; korttipeleill&auml; &mdash; samoista kiinalaisista korteista molemmat ovat l&auml;ht&ouml;isin. Mahjongin l&auml;himm&auml;t sukulaiset ovat perinteisill&auml; korteilla pelattavat&#8230;</p>
+<p><a href="/tietoa-pelista/mahjong-ja-muut-pelit/" rel="nofollow">Lähde</a></p>]]></content:encoded>
 					
 		
 		
@@ -125,8 +142,8 @@ Jos mahjong on pelinä outo, kenties vertaaminen muihin, tutumpiin peleihin autt
 					<description><![CDATA[<div class="entry-summary">
 Jos haluaa kokeilla mahjongin pelaamista pienellä vaivalla, se onnistuu, mikäli vain omistaa neljä tavallista korttipakkaa — mieluusti tietenkin keskenään samanlaisia,&#8230;
 </div><div class="link-more"><a href="/pelivalineet/mahjongia-tavallisilla-korteilla/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Mahjongia tavallisilla korteilla&#8221;</span>&#8230;</a></div>]]></description>
-										<content:encoded><![CDATA[<p>Jos haluaa kokeilla mahjongin pelaamista pienell&auml; vaivalla, se onnistuu, mik&auml;li vain omistaa nelj&auml; tavallista korttipakkaa &mdash; mieluusti tietenkin kesken&auml;&auml;n samanlaisia, mutta jos joukossa on esimerkiksi samanlaisia, mutta eriv&auml;risell&auml; taustalla varustettuja pakkoja, se tuskin aiheuttaa ongelmia. Pakkoja pit&auml;&auml; olla nelj&auml;, sill&auml; jokainen mahjong-tiili esiintyy setiss&auml; nelj&auml; kertaa. Maatiilet.</p>
-<p><a href="/pelivalineet/mahjongia-tavallisilla-korteilla/" rel="nofollow">Source</a></p>]]></content:encoded>
+										<content:encoded><![CDATA[<p>Jos haluaa kokeilla mahjongin pelaamista pienell&auml; vaivalla, se onnistuu, mik&auml;li vain omistaa nelj&auml; tavallista korttipakkaa &mdash; mieluusti tietenkin kesken&auml;&auml;n samanlaisia, mutta jos joukossa on esimerkiksi samanlaisia, mutta eriv&auml;risell&auml; taustalla varustettuja pakkoja, se tuskin aiheuttaa ongelmia. Pakkoja pit&auml;&auml; olla nelj&auml;, sill&auml; jokainen mahjong&#x2d;tiili esiintyy setiss&auml; nelj&auml; kertaa. Maatiilet.</p>
+<p><a href="/pelivalineet/mahjongia-tavallisilla-korteilla/" rel="nofollow">Lähde</a></p>]]></content:encoded>
 					
 		
 		
@@ -144,8 +161,8 @@ Jos haluaa kokeilla mahjongin pelaamista pienellä vaivalla, se onnistuu, mikäl
 					<description><![CDATA[<div class="entry-summary">
 1920-luvun suursuosikki Klassinen kiinalainen mahjong on se mahjongin muoto, joka valloitti maailman 1920-luvulla. Mahjongin länsimaihin tuonut J.P. Babcock muokkasi tästä&#8230;
 </div><div class="link-more"><a href="/saannot/klassinen-kiinalainen/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Klassinen kiinalainen mahjong&#8221;</span>&#8230;</a></div>]]></description>
-										<content:encoded><![CDATA[<p>Klassinen kiinalainen mahjong on se mahjongin muoto, joka valloitti maailman 1920-luvulla. Mahjongin l&auml;nsimaihin tuonut J.P. Babcock muokkasi t&auml;st&auml; klassisesta kiinalaisesta pelist&auml; ne s&auml;&auml;nn&ouml;t, joilla peli&auml; Yhdysvalloissa alunperin kaupiteltiin. Niiss&auml; oli erin&auml;isi&auml; yksinkertaistuksia, jotka Babcock katsoi tarpeellisiksi. Useimmat 1920-luvulla mahjong-kirjoja kirjoittaneet j&auml;ttiv&auml;t...</p>
-<p><a href="/saannot/klassinen-kiinalainen/" rel="nofollow">Source</a></p>]]></content:encoded>
+										<content:encoded><![CDATA[<p>Klassinen kiinalainen mahjong on se mahjongin muoto, joka valloitti maailman 1920&#x2d;luvulla. Mahjongin l&auml;nsimaihin tuonut J.P. Babcock muokkasi t&auml;st&auml; klassisesta kiinalaisesta pelist&auml; ne s&auml;&auml;nn&ouml;t, joilla peli&auml; Yhdysvalloissa alunperin kaupiteltiin. Niiss&auml; oli erin&auml;isi&auml; yksinkertaistuksia, jotka Babcock katsoi tarpeellisiksi. Useimmat 1920&#x2d;luvulla mahjong&#x2d;kirjoja kirjoittaneet j&auml;ttiv&auml;t&#8230;</p>
+<p><a href="/saannot/klassinen-kiinalainen/" rel="nofollow">Lähde</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>/saannot/klassinen-kiinalainen/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
@@ -168,7 +185,7 @@ Jos haluaa kokeilla mahjongin pelaamista pienellä vaivalla, se onnistuu, mikäl
 Kuten uutisoimme, Tom Mustonen oli kolmas Reach Austriassa. Tom sattui kommentoimaan tuota merkintää, joten pyysin Tomia kertomaan lisää turnauksesta.
 </div><div class="link-more"><a href="/2008/12/tom-mustosen-kokemuksia-reach-austriasta/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Tom Mustosen kokemuksia Reach Austriasta&#8221;</span>&#8230;</a></div>]]></description>
 										<content:encoded><![CDATA[<p>Kuten uutisoimme, Tom Mustonen oli kolmas Reach Austriassa. Tom sattui kommentoimaan tuota merkint&auml;&auml;, joten pyysin Tomia kertomaan lis&auml;&auml; turnauksesta. Olkaa hyv&auml;t: Turnausp&auml;iv&auml;&auml; edelt&auml;neen&auml; y&ouml;n&auml; ei paljoa unta tullut, johtuen perinteisest&auml; turnausj&auml;nnityksest&auml;. Vaeltelin turnauspaikalle noin tunnin ennen turnauksen alkua, miettien mik&auml; olisi paras tapa aloittaa pelaaminen.</p>
-<p><a href="/2008/12/tom-mustosen-kokemuksia-reach-austriasta/" rel="nofollow">Source</a></p>]]></content:encoded>
+<p><a href="/2008/12/tom-mustosen-kokemuksia-reach-austriasta/" rel="nofollow">Lähde</a></p>]]></content:encoded>
 					
 		
 		
@@ -185,27 +202,8 @@ Kuten uutisoimme, Tom Mustonen oli kolmas Reach Austriassa. Tom sattui kommentoi
 					<description><![CDATA[<div class="entry-summary">
 Jenn Barrin Jenn&#8217;s Corner -kolumni #27 käsitteli riichin erilaisia sääntöversioita. Riippuen siitä missä pelaa, säännöt vaihtelevat runsaasti. Vieraassa seurassa kannattaakin&#8230;
 </div><div class="link-more"><a href="/saannot/japanilainen-riichi/vaihtelua-riichin-saannoissa/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Vaihtelua riichin säännöissä&#8221;</span>&#8230;</a></div>]]></description>
-										<content:encoded><![CDATA[<p>Jenn Barrin Jenn&rsquo;s Corner -kolumni #27 k&auml;sitteli riichin erilaisia s&auml;&auml;nt&ouml;versioita. Riippuen siit&auml; miss&auml; pelaa, s&auml;&auml;nn&ouml;t vaihtelevat runsaasti. Vieraassa seurassa kannattaakin tarkistaa tietyt yksityiskohdat, jos ei muuten tied&auml;, mill&auml; s&auml;&auml;nn&ouml;ill&auml; peliseura pelaa. Seuraavat s&auml;&auml;nt&ouml;jen kohdat vaihtelevat riichin s&auml;&auml;nn&ouml;iss&auml; eniten: Akadora: Punaiset viitoset, jotka ovat voittok&auml;dess&auml; yhden tuplauksen...</p>
-<p><a href="/saannot/japanilainen-riichi/vaihtelua-riichin-saannoissa/" rel="nofollow">Source</a></p>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>David Pritchardin Teach Yourself Mahjong</title>
-		<link>/2008/11/david-pritchardin-teach-yourself-mahjong/</link>
-		
-		<dc:creator><![CDATA[Mikko]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2008 10:58:55 +0000</pubDate>
-				<category><![CDATA[Sekalaisia juttuja]]></category>
-		<category><![CDATA[kirjat]]></category>
-		<guid isPermaLink="false">/?p=434</guid>
-
-					<description><![CDATA[<div class="entry-summary">
-Posti toi BookMoochista saadun David Pritchardin Teach Yourself Mahjong -oppaan. Tarkempaa arviota on luvassa kirjasivulle lähitulevaisuudessa, mutta ensivaikutelma on, ettei tämä mikään joka kodin perusopas ole.
-</div><div class="link-more"><a href="/2008/11/david-pritchardin-teach-yourself-mahjong/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;David Pritchardin Teach Yourself Mahjong&#8221;</span>&#8230;</a></div>]]></description>
-										<content:encoded><![CDATA[<p>Posti toi BookMoochista saadun David Pritchardin Teach Yourself Mahjong -oppaan. Tarkempaa arviota on luvassa kirjasivulle l&auml;hitulevaisuudessa, mutta ensivaikutelma on, ettei t&auml;m&auml; mik&auml;&auml;n joka kodin perusopas ole. Pritchard k&auml;sittelee klassista kiinalaista peli&auml; brittil&auml;isell&auml; painotuksella. Mukana on siis goulash ja pelin lopussa pisteit&auml; maksellaan kaikkien pelaajien kesken &mdash; kummastakaan...</p>
-<p><a href="/2008/11/david-pritchardin-teach-yourself-mahjong/" rel="nofollow">Source</a></p>]]></content:encoded>
+										<content:encoded><![CDATA[<p>Jenn Barrin Jenn&rsquo;s Corner &#x2d;kolumni #27 k&auml;sitteli riichin erilaisia s&auml;&auml;nt&ouml;versioita. Riippuen siit&auml; miss&auml; pelaa, s&auml;&auml;nn&ouml;t vaihtelevat runsaasti. Vieraassa seurassa kannattaakin tarkistaa tietyt yksityiskohdat, jos ei muuten tied&auml;, mill&auml; s&auml;&auml;nn&ouml;ill&auml; peliseura pelaa. Seuraavat s&auml;&auml;nt&ouml;jen kohdat vaihtelevat riichin s&auml;&auml;nn&ouml;iss&auml; eniten: Euroopan mahjong&#x2d;liiton s&auml;&auml;nn&ouml;iss&auml; on mukana paljon s&auml;&auml;nt&ouml;j&auml;&#8230;</p>
+<p><a href="/saannot/japanilainen-riichi/vaihtelua-riichin-saannoissa/" rel="nofollow">Lähde</a></p>]]></content:encoded>
 					
 		
 		
